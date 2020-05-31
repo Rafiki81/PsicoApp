@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PsicoApp</string>
+    <string name="LoginButton">LOGIN</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="welcome">WELCOME</string>
+</resources>
